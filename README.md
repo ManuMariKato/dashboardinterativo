@@ -15,7 +15,7 @@
     </a>
 </p>
 
-# Dashboard Interativo
+# 📊 Dashboard Interativo
 ---
 
 Dashboard interativo feito com python.
